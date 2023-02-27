@@ -1,6 +1,3 @@
 [submodule "lab-10"]
 	path = lab-10
 	url = https://github.com/guhapranav222/lab-10.git
-[submodule "subdir"]
-	path = subdir
-	url = C:/Program Files/Git/subdir/
